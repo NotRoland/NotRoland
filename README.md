@@ -2,6 +2,6 @@
 
 ### 🇷🇴 Romanian.
 ### 🖥️ Python, C++, and Golang.
-### 🐧 Linux Gang!
+### 🐧 L I N U X
 
 I don't know what else to put here.
