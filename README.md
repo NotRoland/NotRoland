@@ -2,4 +2,6 @@
 
 ### 🇷🇴 Romanian.
 ### 🖥️ Python, C++, and Golang.
-### 🐧 Open-source forever!!
+### 🐧 Linux Gang!
+
+I don't know what else to put here.
